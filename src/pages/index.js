@@ -59,7 +59,7 @@ const IndexPage = () => {
       {/* New Arrivals */}
       <div className={styles.newArrivalsContainer}>
         <Container>
-          <Title name={'New Arrivals'} link={'/https://www.malanijewelers.com/Views/Product/ProductList?CSCCode=2Z3o2cZXYik%2FrNlY29oEmw%3D%3D&Category=Mangalsutras'} textLink={'view all'} />
+          <Title name={'Gold Mangalsutras'} link={'/https://www.malanijewelers.com/Views/Product/ProductList?CSCCode=2Z3o2cZXYik%2FrNlY29oEmw%3D%3D&Category=Mangalsutras'} textLink={'view all'} />
           <ProductCardGrid
             spacing={true}
             showSlider
