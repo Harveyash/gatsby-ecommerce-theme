@@ -80,8 +80,8 @@ const IndexPage = () => {
             miniImageAlt={'mini highlight image'}
             title={'Luxury Knitwear'}
             description={`This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife`}
-            textLink={'shop now'}
-            link={'/shop'}
+            textLink={'Gold Plain chains'}
+            link={'https://www.malanijewelers.com/Views/Product/ProductList?CSCCode=0VHhDvrilah4qR%2BegVoSBA%3D%3D'}
           />
         </Container>
       </div>
